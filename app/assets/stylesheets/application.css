@@ -361,10 +361,9 @@ input[type="submit"]:hover {
 
 .poster{
 	float:right;
-
 }
 
 .summary{
-	margin-bottom:1em;
-width:25em;
+  margin-bottom:1em;
+  width:25em;
 }
